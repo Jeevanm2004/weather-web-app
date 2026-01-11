@@ -69,7 +69,7 @@ Follow these steps to get a local copy up and running.
 
 ## 🌐 Live Demo
 
-**[View Live Demo](#)** *(Add your deployment link here)*
+**[View Live Demo](https://jeevanm2004.github.io/weather-web-app/)** - Check out the live application!
 
 ## 📧 Contact
 
